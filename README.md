@@ -1,5 +1,4 @@
-//Tariff
-// Power Consumption Analyzer in Any Sector | Java
+
 import java.util.*;
 
 class ElectricityBillCalculator {
